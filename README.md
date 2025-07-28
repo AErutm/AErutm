@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Tio's</h1>
-<h3 align="left">My name is Satrio Udaka and I'm currently a 11th class student from Malang, Indonesia. i've been learning computer sice my late elementary school years, but i've just started to learn programming recently. My short terms goal for now is to become a pentester, possibly a bounty hunter. other than that, Arigatou</h3>
+<h3 align="left">My name is Satrio Udaka and I'm currently a 11th class student from Malang, Indonesia. i've been learning computer sice my late elementary school years, but i've just started to learn programming recently. My short terms goal for now is to become a pentester, possibly a bounty hunter. other than that, Arigatou!!</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aerutm" alt="aerutm" /></a> </p>
 

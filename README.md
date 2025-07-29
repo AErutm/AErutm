@@ -1,34 +1,22 @@
 <h1 align="left">Hi 👋, I'm Tio's</h1>
-<h3 align="left">My name is Satrio Udaka and I'm currently a 11th class student from Malang, Indonesia. i've been learning computer sice my late elementary school years, but i've just started to learn programming recently. My short terms goal for now is to become a pentester, possibly a bounty hunter. other than that, Arigatou!!</h2>
+# 💫 About Me:
+🔭 I’m currently working on Personal Web / Portofolio<br><br>🌱 I’m currently learning Linux, Python, ect.<br><br>👨‍💻 All of my projects are available at https://github.com/AErutm/AErutm.github.io<br><br>📝 I regularly write articles on https://medium.com/@tiorajin12456<br><br>📫 How to reach me tiorajin12456@gmail.com<br><br>⚡ Fun fact Maybe i need to learn more
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aerutm" alt="aerutm" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Web / Portofolio](https://github.com/AErutm/AErutm.github.io)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/C7FrzEE6gJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uniprasz) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tiorajin12456) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiorajin12456@gmail.com) 
 
-- 🌱 I’m currently learning **Linux, Python, ect.**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AErutm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AErutm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AErutm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AErutm/AErutm.github.io](https://github.com/AErutm/AErutm.github.io)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AErutm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📝 I regularly write articles on [https://medium.com/@tiorajin12456](https://medium.com/@tiorajin12456)
+---
+[![](https://visitcount.itsvg.in/api?id=AErutm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **tiorajin12456@gmail.com**
-
-- ⚡ Fun fact **Maybe i need to learn more**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/uniprasz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uniprasz" height="30" width="40" /></a>
-<a href="https://medium.com/@tiorajin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tiorajin" height="30" width="40" /></a>
-<a href="https://discord.gg/901078967564525589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="901078967564525589" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aerutm&show_icons=true&locale=en&layout=compact" alt="aerutm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aerutm&show_icons=true&locale=en" alt="aerutm" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

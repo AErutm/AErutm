@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tio's</h1>
 <h2 align="left"># 💫 About Me:</h2>
-🔭 I’m currently working on Personal Web / Portofolio<br><br>🌱 I’m currently learning Linux, Python, ect.<br><br>👨‍💻 All of my projects are available at AErutm.github.io<br><br>📝 I regularly write articles on https://medium.com/@tiorajin12456<br><br>📫 How to reach me tiorajin12456@gmail.com<br><br>⚡ Fun fact Maybe i need to learn more
+🔭 I’m currently working on Personal Web / Portofolio<br><br>🌱 I’m currently learning Linux, Python, ect.<br><br>👨‍💻 All of my projects are available at https://AErutm.github.io<br><br>📝 I regularly write articles on https://medium.com/@tiorajin12456<br><br>📫 How to reach me tiorajin12456@gmail.com<br><br>⚡ Fun fact Maybe i need to learn more
 
 
 ## 🌐 Socials:
